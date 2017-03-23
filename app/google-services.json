@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "230271310762",
+    "firebase_url": "https://clickgo-c283d.firebaseio.com",
+    "project_id": "clickgo-c283d",
+    "storage_bucket": "clickgo-c283d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230271310762:android:53bc3f8adc8266ee",
+        "android_client_info": {
+          "package_name": "com.example.gh.clickgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230271310762-n783o5qvnao0kb2epk4cml716ukcd8gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gh.clickgo",
+            "certificate_hash": "75f256fb20ba45d236555db973054a897a86b840"
+          }
+        },
+        {
+          "client_id": "230271310762-2k16umodg1lpu783tgaesckstdbdaukm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnqiAIpRT-I3tfZ_AXlm4cHO_ZJ072pd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230271310762-2k16umodg1lpu783tgaesckstdbdaukm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ClickGo</string>
+    <string name="departure_prompt">Choose a city</string>
+    <string-array name="departure_arrays">
+        <item>Lahore</item>
+    </string-array>
+    <string name="destination_prompt">Choose your city</string>
+    <string-array name="destination_arrays">
+        <item>RawalPindi/IslamAbad</item>
+        <item>Sargodha</item>
+        <item>Faisalabad</item>
+        <item>Peshawar</item>
+        <item>Murree</item>
+        <item>Abbottabad</item>
+        <item>Haripur</item>
+        <item>Mansehra</item>
+        <item>DG Khan</item>
+        <item>Muzafergarh</item>
+        <item>Ali Pur</item>
+        <item>Rajanpur</item>
+        <item>Jampur</item>
+        <item>Fazalpur</item>
+        <item>Hyderabad</item>
+        <item>Quetta</item>
+        <item>hair Sultan</item>
+        <item>Loralai</item>
+        <item>Sadiqabad</item>
+        <item>Khanpur</item>
+        <item>Ahmad Pur</item>
+        <item>Rahim Yar Khan</item>
+        <item>Sahiwal</item>
+        <item>Multan</item>
+        <item>Bahawalpur</item>
+        <item>Lodhran</item>
+        <item>Khanewal</item>
+    </string-array>
+    <string-array name="listBusCompanise">
+        <item>Faisal Movers</item>
+        <item>Bilal Movers</item>
+        <item>Ali Express</item>
+        <item>Daewoo Express</item>
+        <item>Matyana Movers</item>
+        <item>SkyWays Daewoo</item>
+        <item>Niazi Express</item>
+        <item>Royal Express</item>
+    </string-array>
+</resources>
