@@ -11,11 +11,10 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 /**
- * Created by GH on 3/19/2017.
+ * Created by GH on 3/24/2017.
  */
 
 public class ListAdapter extends ArrayAdapter<String> {
-
     customButtonListener customListner;
 
     public interface customButtonListener {

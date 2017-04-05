@@ -12,11 +12,22 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Search_Results" />
-        <activity android:name=".results_output"></activity>
+        <activity android:name=".CheckSeats" />
+        <activity android:name=".PaymentMethod" />
+        <activity android:name=".Settings" />
+        <activity android:name=".OurPartner" />
+        <activity android:name=".seats"></activity>
+        <activity android:name=".umair"></activity>
     </application>
 
 </manifest>

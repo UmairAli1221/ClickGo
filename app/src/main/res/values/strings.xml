@@ -6,7 +6,7 @@
     </string-array>
     <string name="destination_prompt">Choose your city</string>
     <string-array name="destination_arrays">
-        <item>RawalPindi/IslamAbad</item>
+        <item>Islamabada</item>
         <item>Sargodha</item>
         <item>Faisalabad</item>
         <item>Peshawar</item>
@@ -35,13 +35,11 @@
         <item>Khanewal</item>
     </string-array>
     <string-array name="listBusCompanise">
-        <item>Faisal Movers</item>
-        <item>Bilal Movers</item>
-        <item>Ali Express</item>
-        <item>Daewoo Express</item>
-        <item>Matyana Movers</item>
-        <item>SkyWays Daewoo</item>
-        <item>Niazi Express</item>
-        <item>Royal Express</item>
+        <item>Time1  10:30am</item>
+        <item>Time2  11:30am</item>
+        <item>Time3  12:30am</item>
+        <item>Time4  01:30am</item>
+        <item>Time5  02:30pm</item>
+        <item>Time5  03:30pm</item>
     </string-array>
 </resources>
